@@ -12,4 +12,4 @@ node app.js
 
 ### Configuring the bot
 
-The template uses [dotenv](https://github.com/motdotla/dotenv) for managing application settings.# FAQBot
+The template uses [dotenv](https://github.com/motdotla/dotenv) for managing application settings.
