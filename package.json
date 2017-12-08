@@ -1,0 +1,21 @@
+{
+  "name": "mpp-bot",
+  "version": "1.0.0",
+  "description": "A bot for MPP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beth Pan",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "restify": "^6.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.57",
+    "@types/restify": "^5.0.6"
+  }
+}
